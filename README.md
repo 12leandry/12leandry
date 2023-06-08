@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @12leandry
-- 👀 I’m interested in React Native, Flutter, python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on python, flutter,and React naive
+- 👀 I’m interested in React Native, Flutter, laravel, node.js
+- 🌱 I’m a laravel developper
+- 💞️ I’m looking to collaborate on Laravel, flutter,and React naive
 - 📫 How to reach me on my email takafonick1122@gmail.com
 
 <!---
